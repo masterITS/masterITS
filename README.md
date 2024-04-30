@@ -1,9 +1,10 @@
 ### Hi there 👋
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=masterITS&show_icons=true&count_private=true)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=masterITS)
 <!--
 **masterITS/masterITS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=masterITS)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
