@@ -3,7 +3,7 @@
 <!--
 **masterITS/masterITS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=marzlars)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=masterITS)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
